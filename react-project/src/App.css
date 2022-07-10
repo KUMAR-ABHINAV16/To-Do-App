@@ -1,0 +1,87 @@
+
+
+  *{
+    margin: 0px;
+    padding: 0px;
+    overflow:auto;
+  }
+  
+  
+  .App{
+    background:#3b3636;
+    width:75vh;
+   
+    height: 80vh;
+   margin: 10vh auto;
+    
+    border-radius: 7px;
+    
+  
+   
+    overflow-y: auto;
+  
+  }
+  .main{
+    background:linear-gradient(#bbabab,hwb(34 4% 12%));
+    width:100%;
+    height:100%;
+  }
+  
+  .heading{
+    text-align: center;
+    background-color: antiquewhite;
+  }
+  
+  
+  
+  @media only screen and (max-width: 1000px) {
+  
+  .inp{
+    width:98%;
+    margin: 0px;
+    padding: 0px;
+   
+    text-align: left;
+  }
+    
+  .App{
+    width:90vw;
+    height:80vh;
+    margin:10vh auto;
+  }
+  
+  
+  
+  
+  .add-list-btn{
+    width:15%;
+    padding: 0px;
+    margin: 0px;
+    height: 1%;
+    text-align: center;
+  }
+  
+  
+  
+  .opt{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+  }
+  
+  .del{
+    padding: 0vh;
+    font-size: 22px;
+  }
+  
+  
+  
+  
+     
+   
+  
+  
+  
+  
+  }
+  

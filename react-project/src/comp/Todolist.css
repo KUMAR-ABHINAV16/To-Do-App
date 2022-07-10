@@ -1,0 +1,61 @@
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 12px;
+    width:70%;
+    margin: 3vh auto;
+    font-size:4vh;
+    font-weight: bolder;
+    color: #ffffe7;
+    background-color: rgb(105, 235, 201);
+    overflow:auto;
+    
+   
+    
+}
+.title{
+    display: flex;
+    text-align: left;
+    align-items: center;
+    width:60%;
+   
+    margin: 0px;
+    padding: 1vh;
+    font-size: 2vh;
+    font-weight:lighter;
+    color:black
+
+}
+
+.title > input{
+    height:5vh;
+    background-color: gold;
+    border: none;
+}
+
+.opt{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 38%;
+    
+}
+ .del{
+  
+    
+   
+    font-size: 1vh;
+    padding: 1vh;
+    margin-right: 4vh;
+    
+}
+.check{
+    
+    height: 3vh;
+    width:5vw;
+    margin-right: 5px;
+    font-size: small;
+    padding: 1vh;
+   
+}

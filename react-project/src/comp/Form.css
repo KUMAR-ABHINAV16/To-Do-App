@@ -1,0 +1,27 @@
+.inp{
+    text-align: center;
+    margin-top:25px;
+    padding: 2px;
+    border-radius: 10px;
+
+}
+
+
+.add-list-btn{
+    background-color: rgb(255, 187, 187);
+    height: 5vh;
+  
+    width:15%;
+    margin-left: 1vh;
+    border-radius: 4px;
+    padding: 1vh;
+    font-size: 2vh;
+}
+
+.input-box{
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px;
+    width:50%;
+    height: 5vh;
+    border: 2px solid hsl(0, 0%, 0%);
+}
